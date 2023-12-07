@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.btt{
+  padding: 10px;
+  background: blue;
+  color: #fff;
+  margin-top: 30px;
+  margin-left: 6%;
+}
+
+.data{
+  background: lightgray;
+  padding: 20px;
+  margin: 10px;
+  width: fit-content;
+  display: grid;
+}

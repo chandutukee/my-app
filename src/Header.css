@@ -1,0 +1,18 @@
+.header{
+    background: mediumpurple;
+    padding: 5px;
+    margin-top: 50px;
+    width: 100%
+}
+
+.para{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 50px;
+    background-image: url(logo.png);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
